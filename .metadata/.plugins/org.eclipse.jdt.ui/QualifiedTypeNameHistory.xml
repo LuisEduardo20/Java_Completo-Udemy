@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="exercicios.Triangulo"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="exercicios_2.Funcionario"/>
+    <fullyQualifiedTypeName name="exercicios_3.Aluno"/>
+</qualifiedTypeNameHistroy>
